@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Refineria<br>🌱 I’m currently learning TypeScript and Nuxt JS 3<br>💬 Ask me about everything<br>⚡ Fun fact: I work with technology, but I am passionate about farms.<br><br>
+🔭 I’m currently working on Omniaccess S.L.<br>🌱 I’m currently learning TypeScript and Nuxt JS 3<br>💬 Ask me about everything<br>⚡ Fun fact: I work with technology, but I am passionate about farms.<br><br>
 
 
 ## 🌐 Socials:
