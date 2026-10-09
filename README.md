@@ -1,47 +1,43 @@
-# Hi, I'm Bartomeu Mut Vidal
+# 💫 About Me
 
-**Frontend Developer at OmniAccess · Full stack background · Growing toward Project Management**
+💻 Frontend Developer at **OmniAccess**, based in **Mallorca**.<br>
+🚀 Growing toward **Project Management**, with experience in client communication and mentoring.<br>
+🌱 Currently learning **TypeScript** and building with **Vue 3 & Nuxt**.<br>
+🌾 Beyond code: **music, fermentation, and rural life**.
 
-Based in **Mallorca, Spain**. I connect technical work with project management, client communication, and a practical approach to solving problems.
+## 🌐 Connect
 
-Before building, I take time to understand the problem and find an efficient solution without compromising quality. I enjoy sharing knowledge, helping others learn, and building lasting relationships with clients.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/bartomeu-mut-vidal-61774aa0/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomeumutvidal@gmail.com)
+[![Tomeu Ferments](https://img.shields.io/badge/Tomeu_Ferments-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tomeuferments/)
+[![Portfolio source](https://img.shields.io/badge/Portfolio_source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TomeuMut/portfolio)
 
-## Experience
+## 💻 Tech Stack
 
-| Company | Role | Period |
-| --- | --- | --- |
-| **OmniAccess** | Frontend Developer | November 2025 – present |
-| **IT2b** | Senior Software Developer / Project Manager | January – October 2025 |
-| **Refineria Web** | Web Application Developer | March 2017 – December 2024 |
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-At Refineria, I combined development with project management and direct client communication. I also led frontend training for interns and co-led an AI automation workshop using Make and Zapier. At IT2b, I continued working across software development and project management.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-My next step is to grow as a **Project Manager**, bringing technical understanding, clear communication, and experience working with clients and development teams.
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git_Flow-181717?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-168A60?style=for-the-badge)
 
-## Technologies and ways of working
+## 🛠️ Personal Projects
 
-| Area | Technologies and tools |
-| --- | --- |
-| **Frontend** | Vue 3, Nuxt, Svelte, Angular, JavaScript, HTML, CSS, SASS, TailwindCSS, Vuetify, Bootstrap, jQuery |
-| **Backend and APIs** | PHP, Laravel, Symfony, NestJS, OctoberCMS, REST APIs |
-| **Databases** | MySQL, SQL Server, SQLite |
-| **Delivery and collaboration** | Git, GitLab, Git Flow, CI/CD, Docker, Jira, Scrum, Agile |
-| **AI and automation** | Claude Code, agents, skills, Make, Zapier |
-| **Currently learning** | TypeScript |
-
-## Selected projects
-
-| Project | What it explores | Links |
-| --- | --- | --- |
-| **Ferment SaaS** | Managing fermentation recipes, fermenters, and production batches with Nuxt, Vue, TailwindCSS, and a Laravel API. | [Frontend](https://github.com/TomeuMut/Ferment-Saas-Frontend) · [API](https://github.com/TomeuMut/Ferment-Saas-API) |
-| **Tomeu Ferments** | My personal project about fermentation, maceration, and traditional recipes, with an OctoberCMS website styled with TailwindCSS. | [Code](https://github.com/TomeuMut/tomeuferments) · [Instagram](https://www.instagram.com/tomeuferments/) |
-| **Librewrary** | An open-source Laravel project for creating and sharing beer recipes. Development is currently on hold. | [Repository](https://github.com/TomeuMut/librewrary) |
-| **Portfolio** | My professional background, approach, and projects in English, Spanish, and Catalan, built with Vue, Nuxt, and TailwindCSS. | [Repository](https://github.com/TomeuMut/portfolio) |
-
-## Beyond code
-
-Away from the screen, I enjoy music, fermentation, and rural life. I spend much of my time caring for my land and working with the soil, following the rhythm of the seasons. I like working with my hands, understanding how things are made, and taking care of the details.
-
-## Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/bartomeu-mut-vidal-61774aa0/) · [Email](mailto:tomeumutvidal@gmail.com) · [Tomeu Ferments](https://www.instagram.com/tomeuferments/)
+- **Ferment SaaS** — fermentation management · [Frontend](https://github.com/TomeuMut/Ferment-Saas-Frontend) / [API](https://github.com/TomeuMut/Ferment-Saas-API)
+- **Tomeu Ferments** — fermentation, maceration & traditional recipes · [Code](https://github.com/TomeuMut/tomeuferments) / [Instagram](https://www.instagram.com/tomeuferments/)
+- **Librewrary** — beer recipes with Laravel · [Code](https://github.com/TomeuMut/librewrary) · On hold
